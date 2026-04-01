@@ -2,6 +2,9 @@
 
 A framework to test **any AI agent** using predefined test cases, automated evaluation, and adversarial testing. Supports both a **Streamlit dashboard** and a **CLI interface**.
 
+## 🎥 Demo Video
+[Watch Demo](https://github.com/abhay1201/agent-eval-framework/releases/tag/v1.0)
+
 ---
 
 ## 📁 Project Structure
