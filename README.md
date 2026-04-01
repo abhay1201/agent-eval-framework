@@ -44,7 +44,7 @@ agent-eval-framework/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/agent-eval-framework.git
+git clone https://github.com/abhay1201/agent-eval-framework.git
 cd agent-eval-framework
 ```
 
@@ -247,7 +247,7 @@ git init
 git add .
 git commit -m "initial commit: agent evaluation framework"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/agent-eval-framework.git
+git remote add origin https://github.com/abhay1201/agent-eval-framework.git
 git push -u origin main
 
 # Subsequent pushes
